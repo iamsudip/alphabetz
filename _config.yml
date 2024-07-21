@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://alphabetz.xyz
+baseurl: /
 
 # Site settings
 title: Awesome Title
@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Swaraj Kundu
   pic: 1
-  position: Lead Designer
+  position: Paati Don
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Sudip Maji
   pic: 2
-  position: Lead Marketer
+  position: Don er developer bondhu
   social:
     - title: twitter
       url: #
