@@ -94,6 +94,7 @@ _select_data:
     - Twitter
     - YouTube
     - RSS
+    - Google
 
 _comments:
   map: Update the map location and display settings.
