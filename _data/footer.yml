@@ -9,14 +9,14 @@
     link: /contact/
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://www.facebook.com/profile.php?id=100093813424079
     new_window: true
     social_icon: Facebook
   - name: YouTube
-    link: https://youtube.com/cloudcannon/
+    link: https://www.youtube.com/@AlphabetZ.2022/featured
     social_icon: YouTube
     new_window: true
   - name: Instagram
-    link: /feed.xml
+    link: https://www.instagram.com/alphabet_z2022/
     social_icon: Instagram
     new_window: true
