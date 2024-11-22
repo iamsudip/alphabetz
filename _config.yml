@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Alphabetz Coaching
+title: Alphabetz Coaching Centre
 url: "https://alphabetz.xyz"
 baseurl: ""
 google_analytics_key:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Alphabetz
+  name: Alphabetz Coaching Centre
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://alphabetz.xyz
 
 # -----
 # Build
@@ -80,9 +80,6 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-
-# -----------
-# CloudCannon
 
 _select_data:
   social_icons:
